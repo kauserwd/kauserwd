@@ -1,7 +1,7 @@
-![Web Developer]([https://www.facebook.com/photo/?fbid=1166339930778443&set=a.112668026145644](https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-6/284198254_541450620755505_7956220988924843224_n.png?_nc_cat=106&ccb=1-7&_nc_sid=e3f864&_nc_ohc=xrqGM05WPhUAX_3QQdq&_nc_oc=AQlAYIpH9VYdoXvxbD8CpywT6m32cO9UIPUu-I1D7Mhz88UN3lV7Vs172pi6Rxj11Dc&_nc_ht=scontent.fdac7-1.fna&oh=00_AT8vZVk62G-DWSU4gKAYgB4-xuTQ_W09NPWbUM41WbCmDQ&oe=6299A2C5))
+![Web Developer](https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-6/284198254_541450620755505_7956220988924843224_n.png?_nc_cat=106&ccb=1-7&_nc_sid=e3f864&_nc_ohc=xrqGM05WPhUAX_3QQdq&_nc_oc=AQlAYIpH9VYdoXvxbD8CpywT6m32cO9UIPUu-I1D7Mhz88UN3lV7Vs172pi6Rxj11Dc&_nc_ht=scontent.fdac7-1.fna&oh=00_AT8vZVk62G-DWSU4gKAYgB4-xuTQ_W09NPWbUM41WbCmDQ&oe=6299A2C5)
+
 ### Hi there 👋, This is Kauser Hossain
 #### Web Developer
-
 
 I  am a web developer who is passionate about making error free Website with 100% client Satisfaction. I have a passion for learning new things and also share with others as publicly as possible. Most of the time i am working  with Wordpress and also learning ReactJs as well as Laravel. 
 
