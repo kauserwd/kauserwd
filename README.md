@@ -5,7 +5,7 @@
 
 I  am a web developer who is passionate about making error free Website with 100% client Satisfaction. I have a passion for learning new things and also share with others as publicly as possible. Most of the time i am working  with Laravel and also  Wordpress customization. 
 
-Skills:   HTML / CSS/PHP/JS/BOOTSTRAP
+Skills:   HTML / CSS/PHP/Javascript/BOOTSTRAP/Ajax/Laravel
 
 - 🔭 I’m currently working on Linkedin  
 - 👯 I’m looking to collaborate on Github 
